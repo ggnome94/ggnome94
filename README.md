@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ramon Currently learning about coding and what not.
+
 <!--
 **ggnome94/ggnome94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
